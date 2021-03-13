@@ -1,5 +1,5 @@
 # Merge_PDF
-Merge multiple pdf files into one by filename
+Merge multiple pdf files into one sorted by filename
 
 ##  Dependency: Install PyPDF2
 
