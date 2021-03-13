@@ -18,4 +18,4 @@ apt-get install python3-pypdf2
 Put the python file under the location of your pdfs and run it. \
 Depends on where did you install the PyPDF2 the python version needs to be modified. \
 For my case, it is <code>python3.9 mergePDF.py</code>. \
-Then you will get a merged pdf on your current location. \
+Then you will get a merged pdf on your current location.
